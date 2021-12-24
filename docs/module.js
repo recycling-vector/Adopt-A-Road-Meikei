@@ -78,7 +78,7 @@ const showMap = async () => {
       type: 'symbol',
       source: 'places',
       layout: {
-        'text-field': '🐈abc',
+        'text-field': '�🎯',
         'text-size': [
           'interpolate',
           ['exponential', 2],
